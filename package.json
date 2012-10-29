@@ -1,0 +1,20 @@
+{
+  "name": "thumper",
+  "preferGlobal": "false",
+  "version": "0.1.0",
+  "author": "Sean Farrell <sean.farrell@rioki.org>",
+  "description": "thumbnail generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rioki/node-thumper.git"
+  },
+  "keywords": [
+    "image",
+    "thumbnails"
+  ],
+  "dependencies": {
+    "imagemagick":  "0.1.x",
+    "mkdirp": "0.3.x"
+  },
+  "license": "MIT"  
+}
